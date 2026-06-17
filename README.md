@@ -53,19 +53,19 @@ The goal of the project was to provide a simple all-in-one personal productivity
 
 ### Login Screen
 
-![Login Screen](images/login-screen.png)
+![Login Screen](screenshots/login-screen.png)
 
 ### Task Management
 
-![Task Management](images/task-management.png)
+![Task Management](screenshots/task-management.png)
 
 ### Diary Module
 
-![Diary Module](images/diary-module.png)
+![Diary Module](screenshots/diary-module.png)
 
 ### Finance Management
 
-![Finance Management](images/finance-module.png)
+![Finance Management](screenshots/finance-module.png)
 
 ## Development Approach
 
