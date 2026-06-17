@@ -57,15 +57,15 @@ The goal of the project was to provide a simple all-in-one personal productivity
 
 ### Task Management
 
-![Task Management](screenshots/task-management.png)
+![Task Management](screenshots/task-management.PNG)
 
 ### Diary Module
 
-![Diary Module](screenshots/diary-module.png)
+![Diary Module](screenshots/diary-module.PNG)
 
 ### Finance Management
 
-![Finance Management](screenshots/finance-module.png)
+![Finance Management](screenshots/finance-module.PNG)
 
 ## Development Approach
 
