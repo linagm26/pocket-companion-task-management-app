@@ -53,7 +53,7 @@ The goal of the project was to provide a simple all-in-one personal productivity
 
 ### Login Screen
 
-![Login Screen](screenshots/login-screen.png)
+![Login Screen](screenshots/login-screen.PNG)
 
 ### Task Management
 
